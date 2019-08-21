@@ -1,0 +1,16 @@
+windows access --> winscp
+Linux access -->????
+
+deleting .html file in deployment, how can retrive?
+
+
+-----------
+for windos version  = appservice blade ->console -> ver
+for linux version  = appservice blade ->ssh-> cat /etc/os-release
+-----------
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vasu238/html5-webapp.git
+git push -u origin master

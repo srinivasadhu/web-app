@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=mPrUcWN946Q
+
+Storage Queue topic Pending
+
+
+pass- mysharepointadmin@1
+
+
+--------------------
+username
+password
+sudo su
+yum install httpd
+systemctl start httpd
+yum install java -y
+----------------------
+
+MARKLOGIC ON AZURE / AWS
+https://www.youtube.com/watch?v=gp3wNR85bX8
